@@ -1,0 +1,19 @@
+.container{width: 1200px; margin: auto; margin-top: 30px; }
+hr{border: none; border-top: 1px solid #fff; background-image: linear-gradient(to right bottom, #3ac7d7, #27d9c7, #62e7a6, #a6ef7b, #eff054);}
+ 
+.phone-title{border-bottom: 1px dashed #ffffff; margin-top: 30px; padding-bottom: 10px; text-shadow: 3px 4px 0px #898999;}
+.item-pic{width: 1200px; margin: auto; display: flex; justify-content: space-between; margin-top: 30px;}
+.item-pic li{width: 23%; height: 280px;  padding: 10px; box-shadow: 5px 5px 12px #52ce55; background-image: linear-gradient(to right bottom, #72d73a, #96de3b, #b6e440, #d3ea49, #eff054);}
+.item-pic li img{display: block;width: 100%; height: 100%; }
+ 
+
+ 
+
+
+
+
+
+
+
+
+

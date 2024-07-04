@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 1rem;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-image: url('img/sea.jpg'); /* 替换为你的图片路径 */
+    background-size: cover; /* 让图片覆盖整个背景 */
+    background-position: center; /* 图片居中 */
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav {
+    background-image: url('img/sea.jpg'); /* 替换为你的图片路径 */
+    background-size: cover; /* 让图片覆盖整个背景 */
+    background-position: center; /* 图片居中 */
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+}
+
+
